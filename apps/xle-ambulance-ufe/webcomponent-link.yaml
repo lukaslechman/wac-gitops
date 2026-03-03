@@ -1,7 +1,7 @@
 apiVersion: polyfea.github.io/v1alpha1
 kind: WebComponent
 metadata:
-  name: <pfx>-ambulance-ufe-link
+  name: xle-ambulance-ufe-link
 spec:
   microFrontend: polyfea-md-shell # referencia na microfrontend, z ktorého sa načíta element
   element: polyfea-md-app # element, ktorý bude vložený na stránku
