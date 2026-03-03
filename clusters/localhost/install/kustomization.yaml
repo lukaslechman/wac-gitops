@@ -9,3 +9,6 @@ labels:
 
 resources:
 - ../../../apps/xle-ambulance-ufe
+
+components:
+- ../../../components/version-developers
