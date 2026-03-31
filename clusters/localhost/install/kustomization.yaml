@@ -9,6 +9,12 @@ labels:
 
 resources:
 - ../../../apps/xle-ambulance-ufe
+- ../../../apps/xle-ambulance-webapi
+
+patches:
+- path: patches/ambulance-webapi.service.yaml
+
 
 components:
 - ../../../components/version-developers
+- https://github.com/lukaslechman/ambulance-webapi//deployments/kustomize/components/mongodb
