@@ -7,7 +7,7 @@ spec:
   element: xle-ambulance-wl-app
   attributes:
     - name: api-base
-      value: http://localhost:30081/api
+      value: /xle-api
 
     - name: ambulance-id
       value: bobulova
