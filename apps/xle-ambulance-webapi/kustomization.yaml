@@ -11,4 +11,5 @@ patches:
 
 labels:
 - pairs:
+    app.kubernetes.io/component: xle-ambulance-webapi
     wac-fiit.github.io/component: backend
