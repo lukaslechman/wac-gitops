@@ -5,7 +5,8 @@ labels:
   - pairs:
       app.kubernetes.io/name: xle-apps
       app.kubernetes.io/instance: release
-      app.kubernetes.io/version: "1.0.0"
+      app.kubernetes.io/version: "1.1.0"
+      wac-fiit.github.io/project: xle-ambulance-wl
 
 resources:
   - gitops
