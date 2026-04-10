@@ -8,5 +8,5 @@ spec:
   authors: "Lukas lechman" # Zadajte mená autorov
   azureLink: "https://ambulance-cphpcafsfhczdga3.westeurope-01.azurewebsites.net"
   frontendRepoUrl: "https://github.com/lukaslechman/ambulance-ufe"
-  backendRepoUrl: "https://github.com/lukaslechman/ambulance-webapi
+  backendRepoUrl: "https://github.com/lukaslechman/ambulance-webapi"
   gitopsRepoUrl: "https://github.com/lukaslechman/wac-gitops"
